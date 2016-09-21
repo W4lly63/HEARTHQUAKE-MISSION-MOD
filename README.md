@@ -7,7 +7,7 @@ HearthQuake Simulation Mission ALPHA 0.3
 
 Description/Features
 
-Generates earthquakes around map after a time ... in the radius destroys a lot of Buildings
+Generates earthquakes around map after a time ... in the radius destroys a lot of Buildings,
 Spawn a loots crate and if selected (recommended) groups of AI Enemy ... It increases the difficulty of game... may happen to be in a building in the earthquake area... and die.
 It is not a classic mission because unknown location of crate in a radius of one km in a devasted area where there are various groups of AI is difficult to complete.
 
