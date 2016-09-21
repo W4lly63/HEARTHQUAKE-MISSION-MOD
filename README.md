@@ -45,12 +45,12 @@ Installation Server
 * repack dayz_server folder with pbo manager  dayz_server.pbo
 
 Installation Mission
-o Open/unpbo mission folder and copy or merge if exist  downloaded Sounds folder and file
+* Open/unpbo mission folder and copy or merge if exist  downloaded Sounds folder and file
                 HearthQuakeEffects.sqf
-o Open description.ext and add or merge class CfgSounds (inside descripton.ext downloaded)
-o Open init.sqf and add to the bottom  [] execVM ' hearthQuakeEffects.sqf';
-o pack/close mission folder
-o 
+* Open description.ext and add or merge class CfgSounds (inside descripton.ext downloaded)
+* Open init.sqf and add to the bottom  [] execVM ' hearthQuakeEffects.sqf';
+* pack/close mission folder
+* 
 BE FILTERS
 I dont use BE and the filters are not provided
 certainly need to add to publicvariable.txt
