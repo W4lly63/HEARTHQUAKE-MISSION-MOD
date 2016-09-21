@@ -54,4 +54,4 @@ Installation Mission
 BE FILTERS
 I dont use BE and the filters are not provided
 certainly need to add to publicvariable.txt
-!=" effectHQ"
+*  !=" effectHQ"
