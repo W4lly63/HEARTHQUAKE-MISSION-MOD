@@ -15,6 +15,7 @@ It is not a classic mission because unknown location of crate in a radius of one
 * Spawn Crate inside HQ Zone in Random Coords
 * Spawn Some Groups of AI inside HQ Zone
 * Player Effects 
+* HearthQuake Marker in map
 
 * Ability to define HQ zone and dimension 
 * Ability to define blacklist coords  
