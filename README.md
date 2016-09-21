@@ -33,12 +33,12 @@ AI included in mission are WAI inspired
 
 Installation Server
 
-* UnPbo dayz_server.pbo with pbo manager  and copy inside dayz_server directory , downloaded folder HeartQuake  (MOD_HEARTHQUAKE\server\Heartquake)
-* Open init\server_functions.sqf and in the bottom add  
+* UnPbo dayz_server.pbo with pbo manager  and copy inside dayz_server directory , downloaded folder HeartQuake  (MOD_HEARTHQUAKE\server\Heartquake) (HearthQuake folder only)
+* Open init\server_functions.sqf and at the bottom add  
      call compile preprocessFileLineNumbers "\z\addons\dayz_server\HearthQuake\starter.sqf";
 
-* Open destroy.sqf and setup center coords and range of HearthQuake Zone, HQ can Happen    
-* Random inside this zone, normally setup center of Map and Radius (half map length)
+* Open destroy.sqf and setup center coords and radius of HearthQuake Zone, HQ can Happen    
+* Random inside this area, normally setup center of Map and Radius (half map length)
 * Setup too coords of blacklist places and Buildings (if u want) and others settings.
 * Open spawncrates_HQ.sqf if u want setup type and numbers of loot thst spawn in crate.
 * Inside folder AI open ai_spawn.sqf if u want setup groups or numbers or other about AI.
