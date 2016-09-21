@@ -50,7 +50,7 @@ Installation Mission
 * Open description.ext and add or merge class CfgSounds (inside descripton.ext downloaded)
 * Open init.sqf and add to the bottom  [] execVM ' hearthQuakeEffects.sqf';
 * pack/close mission folder
-* 
+
 BE FILTERS
 I dont use BE and the filters are not provided
 certainly need to add to publicvariable.txt
