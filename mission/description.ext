@@ -1,0 +1,14 @@
+
+
+class CfgSounds
+{
+	
+	class 0334 {
+		name = "0334";
+		sound[] = {"Sounds\0334.ogg", 0.100000, 1};
+		titles[] = {};
+	};
+	
+};
+
+
