@@ -160,7 +160,7 @@ if (isServer) then {
 				
 				if (!_unarmed) then {
 			        _weapon 	= _aiweapon call BIS_fnc_selectRandom;
-			        _magazine 	= _weapon 	call find_suitable_ammunition;
+			        _magazine 	= _weapon 	call find_suitable_ammunition_hq;
 		        };
 				
 				call {				
