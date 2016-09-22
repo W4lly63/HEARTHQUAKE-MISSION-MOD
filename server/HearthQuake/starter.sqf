@@ -4,5 +4,5 @@ if(isServer) then {
    group_waypoints_hq		= compile preprocessFileLineNumbers "\z\addons\dayz_server\HearthQuake\AI\group_waypoints_hq.sqf";
    on_kill_hq		= compile preprocessFileLineNumbers "\z\addons\dayz_server\HearthQuake\AI\on_kill_hq.sqf";
    cache_units_hq		= compile preprocessFileLineNumbers "\z\addons\dayz_server\HearthQuake\AI\cache_units_hq.sqf";
-
+   call 					compile preprocessFileLineNumbers "\z\addons\dayz_server\HearthQuake\AI\functions_hq.sqf";
 };
