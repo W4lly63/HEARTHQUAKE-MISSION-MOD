@@ -97,9 +97,9 @@ crate_typeHQ = _crate_typeHQ;
 		
 		crate_ammo                  = ["50Rnd_762x54_UK59","200Rnd_556x45_M249","100Rnd_762x51_M240","100Rnd_762x54_PK","30Rnd_556x45_StanagSD","10Rnd_762x54_SVD","10Rnd_127x99_m107","20Rnd_762x51_DMR","5Rnd_127x108_KSVK","5Rnd_86x70_L115A1","HandGrenade_West","30Rnd_556x45_Stanag","2000Rnd_762x51_M134","200Rnd_762x51_M240","100Rnd_127x99_M2","150Rnd_127x107_DSHKM"];
 		
-		crate_weapons				= ["SVD_Gh_DZ","M107_DZ","M110_NVG_EP1","G36A_Camo_DZ","M4A1_HWS_GL_camo","SCAR_L_STD_HOLO","M4A3_CCO_EP1","M4A1_AIM_SD_camo","M16A4_ACOG_DZ","m8_carbine","BAF_L85A2_RIS_Holo","m8_sharpshooter",
+		crate_weapons				= ["SVD_Gh_DZ","M107_DZ","M110_NVG_EP1","G36A_Camo_DZ","M4A1_HWS_GL_camo","SCAR_L_STD_HOLO","M4A3_CCO_EP1","M4A1_AIM_SD_camo","M16A4_ACOG_DZ","m8_carbine","L85_Holo_DZ","m8_sharpshooter",
 		                               "MK48_DZ","M249_DZ","Pecheneg_DZ","M240_DZ",
-		                               "SCAR_H_LNG_Sniper_SD","SVD_des_EP1","DMR_DZ","M40A3","ChainSaw","ChainSawB","ChainSawG","ChainSawP","ChainSawR"];	
+		                               "SCAR_H_LNG_Sniper_SD","SVD_des_EP1","DMR_DZ","M40A3_DZ","ChainSaw","ChainSawB","ChainSawG","ChainSawP","ChainSawR"];	
 		
 		crate_skin				    = ["Skin_Ins_Soldier_GL_DZ","Skin_TK_INS_Soldier_EP1_DZ","Skin_TK_INS_Warlord_EP1_DZ","Skin_GUE_Commander_DZ","Skin_GUE_Soldier_Sniper_DZ","Skin_GUE_Soldier_MG_DZ","Skin_GUE_Soldier_Crew_DZ","Skin_GUE_Soldier_2_DZ","Skin_GUE_Soldier_CO_DZ","Skin_BanditW1_DZ","Skin_BanditW2_DZ","Skin_Bandit1_DZ","Skin_Bandit2_DZ","Skin_Sniper1_DZ","Skin_CZ_Soldier_Sniper_EP1_DZ","Skin_GUE_Soldier_Sniper_DZ"];
 
