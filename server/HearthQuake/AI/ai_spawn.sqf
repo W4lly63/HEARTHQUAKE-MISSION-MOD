@@ -31,9 +31,9 @@ if (isServer) then {
 	ai_skill_easy				= [["aimingAccuracy",0.40],["aimingShake",0.50],["aimingSpeed",0.50],["endurance",1.00],["spotDistance",0.50],["spotTime",0.50],["courage",1.00],["reloadSpeed",1.00],["commanding",1.00],["general",1.00]];	// Easy
 	ai_skill_random				= [ai_skill_extreme,ai_skill_hard,ai_skill_hard,ai_skill_hard,ai_skill_hard,ai_skill_medium,ai_skill_medium,ai_skill_medium,ai_skill_medium,ai_skill_easy];
 	
-	ai_wep_assault				= ["SVD_Gh_DZ","M107_DZ","M110_NVG_EP1","G36A_Camo_DZ","M4A1_HWS_GL_camo","SCAR_L_STD_HOLO","M4A3_CCO_EP1","M4A1_AIM_SD_camo","M16A4_ACOG_DZ","m8_carbine","BAF_L85A2_RIS_Holo","m8_sharpshooter"];	// Assault
+	ai_wep_assault				= ["SVD_Gh_DZ","M107_DZ","M110_NVG_EP1","G36A_Camo_DZ","M4A1_HWS_GL_camo","SCAR_L_STD_HOLO","M4A3_CCO_EP1","M4A1_AIM_SD_camo","M16A4_ACOG_DZ","m8_carbine","L85_Holo_DZ","m8_sharpshooter"];	// Assault
 	ai_wep_machine				= ["MK48_DZ","M249_DZ","Pecheneg_DZ","M240_DZ"];	// Light machine guns
-	ai_wep_sniper				= ["SCAR_H_LNG_Sniper_SD","SVD_des_EP1","DMR_DZ","M40A3"];	// Sniper rifles
+	ai_wep_sniper				= ["SCAR_H_LNG_Sniper_SD","SVD_des_EP1","DMR_DZ","M40A3_DZ"];	// Sniper rifles
 	ai_wep_random				= [ai_wep_assault,ai_wep_assault,ai_wep_assault,ai_wep_sniper,ai_wep_machine];	// random weapon 60% chance assault rifle,20% light machine gun,20% sniper rifle
 	
 	ai_gear0					= [["ItemBandage","ItemBandage","ItemAntibiotic"],["ItemRadio","ItemMachete","ItemCrowbar"]];
