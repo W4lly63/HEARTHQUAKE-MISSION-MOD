@@ -94,14 +94,14 @@ if (isServer) then {
 	
 	private ["_unitGroup1","_unitGroup2","_unitGroup3","_unitGroup4","_unitGroup5","_unitGroup6","_unitGroup7","_unitGroup8","_unitGroupHQ","_unitGroupSel"];
 	
-	_unitGroup1	= createGroup RESISTANCE;
-	_unitGroup2	= createGroup RESISTANCE;
-	_unitGroup3	= createGroup RESISTANCE;
-	_unitGroup4	= createGroup RESISTANCE;
-	_unitGroup5	= createGroup RESISTANCE;
-	_unitGroup6	= createGroup RESISTANCE;
-	_unitGroup7	= createGroup RESISTANCE;
-	_unitGroup8	= createGroup RESISTANCE;
+	_unitGroup1	= createGroup EAST;
+	_unitGroup2	= createGroup EAST;
+	_unitGroup3	= createGroup EAST;
+	_unitGroup4	= createGroup EAST;
+	_unitGroup5	= createGroup EAST;
+	_unitGroup6	= createGroup EAST;
+	_unitGroup7	= createGroup EAST;
+	_unitGroup8	= createGroup EAST;
 	
 	_unitGroupHQ =[_unitGroup1,_unitGroup2,_unitGroup3,_unitGroup4,_unitGroup5,_unitGroup6,_unitGroup7,_unitGroup8];
 	endMissionRemoveGroup = _unitGroupHQ;
@@ -253,7 +253,7 @@ if (isServer) then {
 			if(_pos_z == 0) then {
 		       [_unitGroupSel,[_pos_x,_pos_y,_pos_z],_skill] spawn group_waypoints_hq;
 	        };
-	        if(ai_cache_units) then {
+	        if(ai_cache_units_hq) then {
 		       [_unitGroupSel] spawn cache_units_hq;
 	        };
 			//endMissionRemoveGroup = endMissionRemoveGroup + _unitGroupSel;
