@@ -3,7 +3,7 @@
 
 Mission Mod for Arma2 Epoch - Tested on Epoch 1.0.6 RC1 - Dayz 1.8.8
 
-HearthQuake Simulation Mission ALPHA 0.3.1
+HearthQuake Simulation Mission ALPHA 0.3.2
 
 Description/Features
 
